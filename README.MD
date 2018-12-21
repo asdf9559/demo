@@ -2,4 +2,4 @@
 
 Hello Git!
 
-第一次联系Git Bash 命令。
+第一次是练习不是练习Git Bash 命令。
